@@ -51,7 +51,7 @@ app.get('/auth/login',(req,res)=>{
 
 app.get("/",homeController)
 
-app.get("/post/:id", getPostController)
+app.get("/post/:id",getPostController)
 
 app.get("/posts/new",checkUser,PostController)
   
