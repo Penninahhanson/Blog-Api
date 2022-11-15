@@ -19,7 +19,7 @@ This is an api for a blog app
 
 ---
 ## Base URL
-
+https://sana-blog-api.cyclic.app
 
 
 ## Models
@@ -189,4 +189,4 @@ Success
 ...
 
 ## Contributor
-- Ichie Chinemerem
+- Penninah Hanson ime
